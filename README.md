@@ -16,5 +16,5 @@ Mi camino combina el análisis riguroso con la creatividad del desarrollo de sof
 
 Mi Canal de YouTube ([@CeR-FísMat](https://www.youtube.com/@cer-fismat))
 Mi Perfil de TikTok ([profa_gaby8](https://www.tiktok.com/@profa_gaby8?is_from_webapp=1&sender_device=pc))
-[Mi Perfil Científico (ORCID)](https://orcid.org/0009-0001-6139-5427)
+[Mi Perfil Científico ([ORCID](https://orcid.org/0009-0001-6139-5427))]
 
