@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola, te doy la bienvenida! 👋 Soy NANCY GABRIELA AVALOS PEREZ
 
-<!--
-**MatGaby/MatGaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como Licenciada en Ciencias Físico-Matemáticas, siempre he creído que la ciencia y la tecnología cobran verdadera vida cuando se comparten. Encuentro una profunda belleza en el rigor de una demostración matemática, en la claridad del pensamiento lógico y en los patrones ocultos que la ciencia de datos nos permite descubrir. 
 
-Here are some ideas to get you started:
+Mi camino combina el análisis riguroso con la creatividad del desarrollo de software, buscando siempre tender puentes entre los datos, el conocimiento científico y el razonamiento lógico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📐 Lo que me mueve y me apasiona
+- 💻 **Ciencia de Datos:** Traducir datos complejos en respuestas claras y soluciones con impacto real.
+- 📐 **Matemáticas y Lógica Pura:** El arte de estructurar el pensamiento y demostrar la verdad paso a paso.
+- 🌌 **Filosofía y Pensamiento Crítico:** Explorar los fundamentos racionales que impulsan el conocimiento.
+
+### 🏫 Mi proyecto actual
+- 🚀 **Fundadora y Directora en CeR-FísMat:** Un espacio educativo independiente que creé con el firme propósito de divulgar el amor por las ciencias exactas, inspirar a nuevas mentes y demostrar que las matemáticas pertenecen a todos.
+
+### 🌐 Te invito a conectar y conversar sobre ciencia
+
+[Mi Canal de YouTube (CeR-FísMat)](https://youtube.com)
+[Mi Perfil de TikTok (profa_gaby8)](https://www.tiktok.com/@profa_gaby8)
+[Mi Perfil Científico (ORCID)](https://orcid.org/0009-0001-6139-5427)
+
