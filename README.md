@@ -14,7 +14,7 @@ Mi camino combina el análisis riguroso con la creatividad del desarrollo de sof
 
 ### 🌐 Te invito a conectar y conversar sobre ciencia
 
-Mi Perfil LinkedIn([LinkedIn](linkedin.com/in/nancyavalos))
+Mi Perfil LinkedIn([LinkedIn](https://www.linkedin.com/in/nancyavalos))
 
 Mi Canal de YouTube ([@CeR-FísMat](https://www.youtube.com/@cer-fismat))
 
